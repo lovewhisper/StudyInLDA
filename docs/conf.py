@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Default settings
-project = 'Test Builds'
+project = 'Study in RCAST'
 extensions = [
     'sphinx_autorun',
 ]
