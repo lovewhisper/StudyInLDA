@@ -16,3 +16,12 @@ Contents
     :caption: Research
 
     /03_Research/031_Design/031001_Meep
+
+How to use?
+--------
+
+.. runblock:: pycon
+
+   >>> git add .
+   >>> git commit -m "comments"
+   >>> git push -u origin

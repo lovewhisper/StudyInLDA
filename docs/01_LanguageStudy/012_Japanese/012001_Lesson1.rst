@@ -21,21 +21,21 @@ Lesson1 Introducing youself
 
 - ですか
 
-+ ↑ Asking for information
+    + ↑ Asking for information
 
-+ ↓ Receiving/accepting information
+    + ↓ Receiving/accepting information
 
 ----
 
 - Offering
 
-+ どおぞ。
+    + どおぞ。
 
-+ どおも
+    + どおも
 
 - Requesting
 
-+ おねがいします。
+    + おねがいします。
 
 - いいですか。 / あ、どおぞ。
 
