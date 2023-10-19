@@ -29,3 +29,7 @@ Lesson1 Introducing youself
 あの
 
 ----
+
+.. toctree::
+   
+   01_LanguageStudy/012_Japanese/012001_Lesson1
