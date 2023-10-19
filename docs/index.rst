@@ -7,4 +7,4 @@ Contents
 .. toctree::
     :caption: 服务支持
 
-    Lesson
+    01_LanguageStudy/012_Japanese/Lesson
