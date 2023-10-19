@@ -5,6 +5,6 @@ PhotoCAD产品手册资料
 --------
 
 .. toctree::
-    :caption: 服务支持
+   :glob:
 
-    Lesson
+   *
