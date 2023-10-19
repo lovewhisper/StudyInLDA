@@ -1,12 +1,16 @@
-RCAST
+Study in RCAST
 ====================================
 
 Contents
 --------
 
 .. toctree::
-    :caption: 服务支持
+    :caption: Language Learning
 
-    /01_LanguageStudy/012001_Lesson1
     /01_LanguageStudy/012_Japanese/012001_Lesson1
-    /01_LanguageStudy/012_Japanese/012001_Lesson1
+
+.. toctree::
+    :caption: Physics
+
+.. toctree::
+    :caption: Research
