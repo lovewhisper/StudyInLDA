@@ -20,8 +20,6 @@ Contents
 How to use?
 --------
 
-.. runblock:: pycon
-
    >>> git add .
    >>> git commit -m "comments"
    >>> git push -u origin
