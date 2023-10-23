@@ -8,6 +8,7 @@ Contents
     :caption: Language Learning
 
     /01_LanguageStudy/012_Japanese/012001_Lesson1
+    /01_LanguageStudy/012_Japanese/012002_Lesson2
 
 .. toctree::
     :caption: Physics
