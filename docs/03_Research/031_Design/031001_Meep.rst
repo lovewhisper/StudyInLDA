@@ -3,4 +3,4 @@ Ceviche
 
 ----
 
-pip install ceviche
+>>> pip install ceviche
