@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Default settings
-project = 'Study in RCAST'
+project = 'Work in Latitudeda'
 extensions = [
     'sphinx_autorun',
 ]
