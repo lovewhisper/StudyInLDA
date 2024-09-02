@@ -5,18 +5,16 @@ Contents
 --------
 
 .. toctree::
-    :caption: Language Learning
-
-    /01_LanguageStudy/012_Japanese/012001_Lesson1
-    /01_LanguageStudy/012_Japanese/012002_Lesson2
-
-.. toctree::
-    :caption: Physics
-
-.. toctree::
     :caption: Research
 
-    /03_Research/031_Design/031001_Meep
+    /02_Research/201_GDS2INFO/GDS2INFO.rst
+    /02_Research/202_Automation/Ceviche.rst
+
+.. toctree::
+    :caption: Tool
+
+    /01_DailyTool/101_hexo.rst
+    /01_DailyTool/102_AIStudio.rst
 
 How to use?
 --------
